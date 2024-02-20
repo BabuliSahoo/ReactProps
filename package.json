@@ -1,4 +1,5 @@
 {
+  "homepage": "http:/babulisahoo.github.io/ReactProps",
   "name": "reactprops",
   "version": "1.0.0",
   "description": "",
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
